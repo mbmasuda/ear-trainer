@@ -20,16 +20,10 @@ doesn't work any more.
 
 ## Video I apparently made for the class
 
-**To avoid needing to listen to my horrible singing, feel free to mute or entirely
-skip from 00:36 to 02:05.**
+![Ear Trainer demo video](./EarTrainer.mp4)
 
-<video controls src="./EarTrainer.mp4">
-  This browser does not support embedded videos; the video can be downloaded
-  from <a href="./EarTrainer.mp4">here</a>.
-</video>
-
-**To avoid needing to listen to my horrible singing, feel free to mute or entirely
-skip from 00:36 to 02:05.**
+To avoid needing to listen to my horrible singing, feel free to mute or entirely
+skip from 00:36 to 02:05.
 
 
 ## How to get in touch
