@@ -20,6 +20,10 @@ doesn't work any more.
 
 ## Video I apparently made for the class
 
+***PLEASE NOTE:*** I am working on creating a VTT file to add captions to the
+video. If you need captions to be able to access the video's content, please
+be assured I am adding them as soon as I can.
+
 ![Ear Trainer demo video](./EarTrainer.mp4)
 
 To avoid needing to listen to my horrible singing, feel free to mute or entirely
